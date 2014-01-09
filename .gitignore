@@ -1,0 +1,18 @@
+# osx
+.DS_Store
+
+# vim
+*.swp
+
+# xcode
+xcuserdata
+xcshareddata
+*.xcuserstate
+*/project.xcworkspace
+
+# Build
+build
+
+# CocoaPods
+Pods
+Podfile.lock
